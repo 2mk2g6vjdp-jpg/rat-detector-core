@@ -1,0 +1,20 @@
+{
+  "chain": "bsc",
+  "token_address": "0x1111111111111111111111111111111111111111",
+  "creator_address": "0x2222222222222222222222222222222222222222",
+  "delivery_id": "bsc:synthetic-block-100:log-3",
+  "creator_nonce": 1,
+  "creator_age_seconds": 900,
+  "creator_deploys_24h": 8,
+  "creator_token_share_pct": 28.5,
+  "has_social": false,
+  "bytecode_family_matches": true,
+  "funder_kind": "relay",
+  "control_evidence": "third_party_transfer",
+  "dependencies": {
+    "creator_profile": "complete",
+    "holdings": "complete",
+    "provenance": "complete"
+  }
+}
+

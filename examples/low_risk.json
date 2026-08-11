@@ -1,0 +1,20 @@
+{
+  "chain": "bsc",
+  "token_address": "0x3333333333333333333333333333333333333333",
+  "creator_address": "0x4444444444444444444444444444444444444444",
+  "delivery_id": "bsc:synthetic-block-101:log-0",
+  "creator_nonce": 42,
+  "creator_age_seconds": 7776000,
+  "creator_deploys_24h": 1,
+  "creator_token_share_pct": 2.0,
+  "has_social": true,
+  "bytecode_family_matches": false,
+  "funder_kind": "eoa",
+  "control_evidence": "none",
+  "dependencies": {
+    "creator_profile": "complete",
+    "holdings": "complete",
+    "provenance": "complete"
+  }
+}
+

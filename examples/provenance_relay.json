@@ -1,0 +1,13 @@
+{
+  "target_address": "0x7777777777777777777777777777777777777777",
+  "hops": [
+    {
+      "source": "0x8888888888888888888888888888888888888888",
+      "destination": "0x7777777777777777777777777777777777777777",
+      "transaction_hash": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "channel": "relay",
+      "evidence": "third_party_transfer"
+    }
+  ]
+}
+

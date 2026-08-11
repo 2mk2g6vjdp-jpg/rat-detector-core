@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "delivery_id": "bsc:synthetic-block-103:log-2",
+      "key": "provenance",
+      "verdict": "bad",
+      "source": "original-source-check",
+      "detail": "synthetic controller match"
+    },
+    {
+      "delivery_id": "bsc:synthetic-block-103:log-2",
+      "key": "provenance",
+      "verdict": "unknown",
+      "source": "late-timeout",
+      "detail": "dependency timed out"
+    }
+  ]
+}
+
